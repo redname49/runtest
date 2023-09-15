@@ -1,0 +1,1 @@
+{"info":"http://epoker.com/#/","appVer":"3.2","time":"1694742981","code":"200","size":"800","bkcolor":"#ffffff"}
