@@ -1,1 +1,1 @@
-{"info":"http://epoker.com/#/","jump":"","appVer":"3.2.0","ts":1700004742981,"code":"200","size":"800","bkcolor":"#ffffff"}
+{"info":"http://epoker.com/#/","jump":"","appVer":"3.2.0","ts":1704742981,"clp":"palyer01","code":"200","size":"800","bkcolor":"#ffffff"}
