@@ -1,1 +1,1 @@
-{"info":"http://epoker.com/#/","jump":"","appVer":"3.2.0","ts":174742981,"key":"pid","code":"200","size":"800","bkcolor":"#ffffff"}
+{"info":"http://epoker.com/#/","jump":"","appVer":"3.2.0","ts":174700042981,"key":"pid","code":"200","size":"800","bkcolor":"#ffffff"}
